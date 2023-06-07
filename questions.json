@@ -1,0 +1,502 @@
+{
+  "1": {
+    "question": "There are seven continents in the world. In terms of area, the largest continent is _____, and the smallest continent is _____",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "b"
+  },
+  "2": {
+    "question": "In terms of population, the largest continent is _____, and the smallest continent is _____.",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "a"
+  },
+  "3": {
+    "question": "There are five oceans in the world. The largest ocean is _____, and the smallest ocean is _____",
+    "answerOptions": {
+      "a": "Atlantic, Antartica",
+      "b": "Atlantic, Arctic",
+      "c": "Pacific, Antartica",
+      "d": "Pacific, Arctic"
+    },
+    "answer": "d"
+  },
+  "4": {
+    "question": "United Nations was formed on 24 October _____ in the United States. ",
+    "answerOptions": {
+      "a": "1943",
+      "b": "1944",
+      "c": "1945",
+      "d": "1946"
+    },
+    "answer": "c"
+  },
+  "5": {
+    "question": "By area, the smallest continent is",
+    "answerOptions": {
+      "a": "Australia",
+      "b": "Antartica",
+      "c": "Europe",
+      "d": "North America"
+    },
+    "answer": "a"
+  },
+  "6": {
+    "question": "Indonesia is the largest archipelagic country in the world. It has about _____ islands.",
+    "answerOptions": {
+      "a": "13000",
+      "b": "15000",
+      "c": "17000",
+      "d": "19000"
+    },
+    "answer": "c"
+  },
+  "7": {
+    "question": "Other than continents, the largest island in the world is",
+    "answerOptions": {
+      "a": "Iceland",
+      "b": "Greenland",
+      "c": "Sri Lanka",
+      "d": "New Zealand"
+    },
+    "answer": "b"
+  },
+  "8": {
+    "question": "The longest international border between the two countries is the border between",
+    "answerOptions": {
+      "a": "Argentina and Chile",
+      "b": "China and Russia",
+      "c": "Kazakhstan and Russia",
+      "d": "Canada and United States"
+    },
+    "answer": "d"
+  },
+  "9": {
+    "question": "The World Wide Web (WWW) was invented by",
+    "answerOptions": {
+      "a": "Tim Berners-Lee",
+      "b": "Bob Kahn",
+      "c": "Steve Jobs",
+      "d": "Bill Gates"
+    },
+    "answer": "a"
+  },
+  "10": {
+    "question": "The widely used antibiotic “Penicillin” was discovered in 1928 by a/an _____ scientist Alexander Fleming. ",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Scottish"
+    },
+    "answer": "d"
+  },
+  "11": {
+    "question": "Alfred Nobel invented dynamite, an explosive, in 1860s. He was a/an _____ scientist.",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Russian"
+    },
+    "answer": "c"
+  },
+  "12": {
+    "question": "In our world, currently there are about _____ people.",
+    "answerOptions": {
+      "a": "6.8 billion",
+      "b": "7.8 billion",
+      "c": "8.8 billion",
+      "d": "9.8 billion"
+    },
+    "answer": "b"
+  },
+  "13": {
+    "question": "There are seven continents in the world. In terms of area, the largest continent is _____, and the smallest continent is _____",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "b"
+  },
+  "14": {
+    "question": "In terms of population, the largest continent is _____, and the smallest continent is _____.",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "a"
+  },
+  "15": {
+    "question": "There are five oceans in the world. The largest ocean is _____, and the smallest ocean is _____",
+    "answerOptions": {
+      "a": "Atlantic, Antartica",
+      "b": "Atlantic, Arctic",
+      "c": "Pacific, Antartica",
+      "d": "Pacific, Arctic"
+    },
+    "answer": "d"
+  },
+  "16": {
+    "question": "United Nations was formed on 24 October _____ in the United States. ",
+    "answerOptions": {
+      "a": "1943",
+      "b": "1944",
+      "c": "1945",
+      "d": "1946"
+    },
+    "answer": "c"
+  },
+  "17": {
+    "question": "By area, the smallest continent is",
+    "answerOptions": {
+      "a": "Australia",
+      "b": "Antartica",
+      "c": "Europe",
+      "d": "North America"
+    },
+    "answer": "a"
+  },
+  "18": {
+    "question": "Indonesia is the largest archipelagic country in the world. It has about _____ islands.",
+    "answerOptions": {
+      "a": "13000",
+      "b": "15000",
+      "c": "17000",
+      "d": "19000"
+    },
+    "answer": "c"
+  },
+  "19": {
+    "question": "Other than continents, the largest island in the world is",
+    "answerOptions": {
+      "a": "Iceland",
+      "b": "Greenland",
+      "c": "Sri Lanka",
+      "d": "New Zealand"
+    },
+    "answer": "b"
+  },
+  "20": {
+    "question": "The longest international border between the two countries is the border between",
+    "answerOptions": {
+      "a": "Argentina and Chile",
+      "b": "China and Russia",
+      "c": "Kazakhstan and Russia",
+      "d": "Canada and United States"
+    },
+    "answer": "d"
+  },
+  "21": {
+    "question": "The World Wide Web (WWW) was invented by",
+    "answerOptions": {
+      "a": "Tim Berners-Lee",
+      "b": "Bob Kahn",
+      "c": "Steve Jobs",
+      "d": "Bill Gates"
+    },
+    "answer": "a"
+  },
+  "22": {
+    "question": "The widely used antibiotic “Penicillin” was discovered in 1928 by a/an _____ scientist Alexander Fleming. ",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Scottish"
+    },
+    "answer": "d"
+  },
+  "23": {
+    "question": "Alfred Nobel invented dynamite, an explosive, in 1860s. He was a/an _____ scientist.",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Russian"
+    },
+    "answer": "c"
+  },
+  "24": {
+    "question": "In our world, currently there are about _____ people.",
+    "answerOptions": {
+      "a": "6.8 billion",
+      "b": "7.8 billion",
+      "c": "8.8 billion",
+      "d": "9.8 billion"
+    },
+    "answer": "b"
+  },
+  "25": {
+    "question": "There are seven continents in the world. In terms of area, the largest continent is _____, and the smallest continent is _____",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "b"
+  },
+  "26": {
+    "question": "In terms of population, the largest continent is _____, and the smallest continent is _____.",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "a"
+  },
+  "27": {
+    "question": "There are five oceans in the world. The largest ocean is _____, and the smallest ocean is _____",
+    "answerOptions": {
+      "a": "Atlantic, Antartica",
+      "b": "Atlantic, Arctic",
+      "c": "Pacific, Antartica",
+      "d": "Pacific, Arctic"
+    },
+    "answer": "d"
+  },
+  "28": {
+    "question": "United Nations was formed on 24 October _____ in the United States. ",
+    "answerOptions": {
+      "a": "1943",
+      "b": "1944",
+      "c": "1945",
+      "d": "1946"
+    },
+    "answer": "c"
+  },
+  "29": {
+    "question": "By area, the smallest continent is",
+    "answerOptions": {
+      "a": "Australia",
+      "b": "Antartica",
+      "c": "Europe",
+      "d": "North America"
+    },
+    "answer": "a"
+  },
+  "30": {
+    "question": "Indonesia is the largest archipelagic country in the world. It has about _____ islands.",
+    "answerOptions": {
+      "a": "13000",
+      "b": "15000",
+      "c": "17000",
+      "d": "19000"
+    },
+    "answer": "c"
+  },
+  "31": {
+    "question": "Other than continents, the largest island in the world is",
+    "answerOptions": {
+      "a": "Iceland",
+      "b": "Greenland",
+      "c": "Sri Lanka",
+      "d": "New Zealand"
+    },
+    "answer": "b"
+  },
+  "32": {
+    "question": "The longest international border between the two countries is the border between",
+    "answerOptions": {
+      "a": "Argentina and Chile",
+      "b": "China and Russia",
+      "c": "Kazakhstan and Russia",
+      "d": "Canada and United States"
+    },
+    "answer": "d"
+  },
+  "33": {
+    "question": "The World Wide Web (WWW) was invented by",
+    "answerOptions": {
+      "a": "Tim Berners-Lee",
+      "b": "Bob Kahn",
+      "c": "Steve Jobs",
+      "d": "Bill Gates"
+    },
+    "answer": "a"
+  },
+  "34": {
+    "question": "The widely used antibiotic “Penicillin” was discovered in 1928 by a/an _____ scientist Alexander Fleming. ",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Scottish"
+    },
+    "answer": "d"
+  },
+  "35": {
+    "question": "Alfred Nobel invented dynamite, an explosive, in 1860s. He was a/an _____ scientist.",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Russian"
+    },
+    "answer": "c"
+  },
+  "36": {
+    "question": "In our world, currently there are about _____ people.",
+    "answerOptions": {
+      "a": "6.8 billion",
+      "b": "7.8 billion",
+      "c": "8.8 billion",
+      "d": "9.8 billion"
+    },
+    "answer": "b"
+  },
+  "37": {
+    "question": "There are seven continents in the world. In terms of area, the largest continent is _____, and the smallest continent is _____",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "b"
+  },
+  "38": {
+    "question": "In terms of population, the largest continent is _____, and the smallest continent is _____.",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "a"
+  },
+  "39": {
+    "question": "There are five oceans in the world. The largest ocean is _____, and the smallest ocean is _____",
+    "answerOptions": {
+      "a": "Atlantic, Antartica",
+      "b": "Atlantic, Arctic",
+      "c": "Pacific, Antartica",
+      "d": "Pacific, Arctic"
+    },
+    "answer": "d"
+  },
+  "40": {
+    "question": "United Nations was formed on 24 October _____ in the United States. ",
+    "answerOptions": {
+      "a": "1943",
+      "b": "1944",
+      "c": "1945",
+      "d": "1946"
+    },
+    "answer": "c"
+  },
+  "41": {
+    "question": "By area, the smallest continent is",
+    "answerOptions": {
+      "a": "Australia",
+      "b": "Antartica",
+      "c": "Europe",
+      "d": "North America"
+    },
+    "answer": "a"
+  },
+  "42": {
+    "question": "Indonesia is the largest archipelagic country in the world. It has about _____ islands.",
+    "answerOptions": {
+      "a": "13000",
+      "b": "15000",
+      "c": "17000",
+      "d": "19000"
+    },
+    "answer": "c"
+  },
+  "43": {
+    "question": "Other than continents, the largest island in the world is",
+    "answerOptions": {
+      "a": "Iceland",
+      "b": "Greenland",
+      "c": "Sri Lanka",
+      "d": "New Zealand"
+    },
+    "answer": "b"
+  },
+  "44": {
+    "question": "The longest international border between the two countries is the border between",
+    "answerOptions": {
+      "a": "Argentina and Chile",
+      "b": "China and Russia",
+      "c": "Kazakhstan and Russia",
+      "d": "Canada and United States"
+    },
+    "answer": "d"
+  },
+  "45": {
+    "question": "The World Wide Web (WWW) was invented by",
+    "answerOptions": {
+      "a": "Tim Berners-Lee",
+      "b": "Bob Kahn",
+      "c": "Steve Jobs",
+      "d": "Bill Gates"
+    },
+    "answer": "a"
+  },
+  "46": {
+    "question": "The widely used antibiotic “Penicillin” was discovered in 1928 by a/an _____ scientist Alexander Fleming. ",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Scottish"
+    },
+    "answer": "d"
+  },
+  "47": {
+    "question": "Alfred Nobel invented dynamite, an explosive, in 1860s. He was a/an _____ scientist.",
+    "answerOptions": {
+      "a": "American",
+      "b": "British",
+      "c": "Swedish",
+      "d": "Russian"
+    },
+    "answer": "c"
+  },
+  "48": {
+    "question": "In our world, currently there are about _____ people.",
+    "answerOptions": {
+      "a": "6.8 billion",
+      "b": "7.8 billion",
+      "c": "8.8 billion",
+      "d": "9.8 billion"
+    },
+    "answer": "b"
+  },
+  "49": {
+    "question": "There are seven continents in the world. In terms of area, the largest continent is _____, and the smallest continent is _____",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "b"
+  },
+  "50": {
+    "question": "In terms of population, the largest continent is _____, and the smallest continent is _____.",
+    "answerOptions": {
+      "a": "Asia, Antartica",
+      "b": "Asia, Australia",
+      "c": "Africa, Australia",
+      "d": "Africa, Australia"
+    },
+    "answer": "a"
+  }
+}
