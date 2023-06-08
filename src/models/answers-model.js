@@ -4,209 +4,214 @@ const answerSchema = mongoose.Schema({
   answer: {
     1: {
       type: String,
-      default: "--"
+      default: "--",
     },
     2: {
       type: String,
-      default: "--"
+      default: "--",
     },
     3: {
       type: String,
-      default: "--"
+      default: "--",
     },
     4: {
       type: String,
-      default: "--"
+      default: "--",
     },
     5: {
       type: String,
-      default: "--"
+      default: "--",
     },
     6: {
       type: String,
-      default: "--"
+      default: "--",
     },
     7: {
       type: String,
-      default: "--"
+      default: "--",
     },
     8: {
       type: String,
-      default: "--"
+      default: "--",
     },
     9: {
       type: String,
-      default: "--"
+      default: "--",
     },
     10: {
       type: String,
-      default: "--"
+      default: "--",
     },
     11: {
       type: String,
-      default: "--"
+      default: "--",
     },
     12: {
       type: String,
-      default: "--"
+      default: "--",
     },
     13: {
       type: String,
-      default: "--"
+      default: "--",
     },
     14: {
       type: String,
-      default: "--"
+      default: "--",
     },
     15: {
       type: String,
-      default: "--"
+      default: "--",
     },
     16: {
       type: String,
-      default: "--"
+      default: "--",
     },
     17: {
       type: String,
-      default: "--"
+      default: "--",
     },
     18: {
       type: String,
-      default: "--"
+      default: "--",
     },
     19: {
       type: String,
-      default: "--"
+      default: "--",
     },
     20: {
       type: String,
-      default: "--"
+      default: "--",
     },
     21: {
       type: String,
-      default: "--"
+      default: "--",
     },
     22: {
       type: String,
-      default: "--"
+      default: "--",
     },
     23: {
       type: String,
-      default: "--"
+      default: "--",
     },
     24: {
       type: String,
-      default: "--"
+      default: "--",
     },
     25: {
       type: String,
-      default: "--"
+      default: "--",
     },
     26: {
       type: String,
-      default: "--"
+      default: "--",
     },
     27: {
       type: String,
-      default: "--"
+      default: "--",
     },
     28: {
       type: String,
-      default: "--"
+      default: "--",
     },
     29: {
       type: String,
-      default: "--"
+      default: "--",
     },
     30: {
       type: String,
-      default: "--"
+      default: "--",
     },
     31: {
       type: String,
-      default: "--"
+      default: "--",
     },
     32: {
       type: String,
-      default: "--"
+      default: "--",
     },
     33: {
       type: String,
-      default: "--"
+      default: "--",
     },
     34: {
       type: String,
-      default: "--"
+      default: "--",
     },
     35: {
       type: String,
-      default: "--"
+      default: "--",
     },
     36: {
       type: String,
-      default: "--"
+      default: "--",
     },
     37: {
       type: String,
-      default: "--"
+      default: "--",
     },
     38: {
       type: String,
-      default: "--"
+      default: "--",
     },
     39: {
       type: String,
-      default: "--"
+      default: "--",
     },
     40: {
       type: String,
-      default: "--"
+      default: "--",
     },
     41: {
       type: String,
-      default: "--"
+      default: "--",
     },
     42: {
       type: String,
-      default: "--"
+      default: "--",
     },
     43: {
       type: String,
-      default: "--"
+      default: "--",
     },
     44: {
       type: String,
-      default: "--"
+      default: "--",
     },
     45: {
       type: String,
-      default: "--"
+      default: "--",
     },
     46: {
       type: String,
-      default: "--"
+      default: "--",
     },
     47: {
       type: String,
-      default: "--"
+      default: "--",
     },
     48: {
       type: String,
-      default: "--"
+      default: "--",
     },
     49: {
       type: String,
-      default: "--"
+      default: "--",
     },
     50: {
       type: String,
-      default: "--"
+      default: "--",
     },
   },
   userID: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "User",
   },
+  answerType: {
+    type: String,
+    enum: ["user", "admin"],
+    default: "user",
+  }
 });
 
 module.exports = mongoose.model("Answer", answerSchema);

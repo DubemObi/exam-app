@@ -11,10 +11,7 @@ router
     authController.restrictTo("admin"),
     AnswersController.getAllAnswers
   )
-  .post(authController.protect, AnswersController.createAnswers);
-
-// router
-//   .route("/:id")
-//   .patch(authController.protect, AnswersController.updateAnswers);
+  .post(authController.protect, AnswersController.createAnswers)
+  .patch(authController.protect, AnswersController.updateAnswers);
 
 module.exports = router;

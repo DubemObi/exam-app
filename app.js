@@ -8,7 +8,7 @@ const cookieParser = require("cookie-parser");
 const AppError = require("./src/utils/appError");
 const globalErrorHandler = require("./src/controllers/error-controller");
 const userRouter = require("./src/routes/user-routes");
-const QuestionsRouter = require("./src/routes/answers-routes");
+const QuestionsRouter = require("./src/routes/questions-routes");
 const AnswersRouter = require("./src/routes/answers-routes");
 const ResultRouter = require("./src/routes/result-routes");
 

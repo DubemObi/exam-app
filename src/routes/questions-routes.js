@@ -15,7 +15,7 @@ router
 
 router
   .route("/:id")
-  .get(QuestionController.getQuestions)
+  .get(QuestionController.getOneQuestion)
   .patch(
     authController.protect,
     authController.restrictTo("admin"),
